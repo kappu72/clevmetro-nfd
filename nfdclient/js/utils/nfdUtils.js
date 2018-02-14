@@ -90,7 +90,7 @@ module.exports = {
             icon = 'cog';
         } else if (formname === 'observation') {
             icon = 'eye-open';
-        } else if (formname === 'observation.reporter') {
+        } else if (formname === 'reporter') {
             icon = 'reporter';
         } else if (formname === 'observation.recorder') {
             icon = 'recorder';
